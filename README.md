@@ -1,4 +1,4 @@
-# Walmart Sales Data Analysis Project
+# Walmart Sales Data Analysis Project (SQL)
 
 ### This project dives into the Walmart Sales dataset, sourced from the Kaggle Walmart Sales Forecasting Competition, with a goal to unveil insights about top-performing branches, product trends, and customer behavior. The major purpose is to enhance sales strategies and optimization.
 
