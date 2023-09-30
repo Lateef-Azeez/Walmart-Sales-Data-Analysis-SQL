@@ -15,8 +15,8 @@
 ## Impact:
 * Enhanced data accuracy and real-time insights.
 * Improved sales strategies and cost efficiency.
-* Empowered decision-making with data-driven tools.
+* Empowered data-driven decision-making.
 
 ### This project showcases my expertise in leveraging SQL for Data Analysis and also highlights my ability to drive informed decisions and optimize business operations.
 
-For code details, refer to 
+For query details, refer to Walmart Sales Data Analysis.sql
